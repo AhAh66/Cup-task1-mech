@@ -1,4 +1,4 @@
-# Cup-task1-mech
+# task1-mech
 # 3D Cup Design Project using Onshape
 
 ## Overview
