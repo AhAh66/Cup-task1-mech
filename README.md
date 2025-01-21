@@ -21,6 +21,12 @@ The following tools were utilized to create the 3D cup:
 - **Handle**: The handle was designed using **Sweep** along a curved path, with **Fillet** applied to smooth the connection between the handle and the cup.
 
 ---
+## Real-life Cup Image
+Here is a real-life photo of the cup:  
+![AKLOV Color Ceramic Coffee Mug Ceramic in Blue _ 20oz _ Wayfair](https://github.com/user-attachments/assets/1b5dd154-3013-46fd-89fc-8a07af9ca96c)
+
+
+---
 
 ## Final Design Image
 ![‪cup task1 _ Part Studio 1 - Google Chrome‬ 1_19_2025 1_06_18 PM](https://github.com/user-attachments/assets/918b6bea-d86c-45cd-8703-09a11a21a9db)
